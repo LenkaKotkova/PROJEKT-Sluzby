@@ -167,6 +167,10 @@ section {
         text-align: center;
     }
     
+    .box-icon {
+        margin-right: 0;
+    }
+    
     .box:not(:last-child) {
         margin-bottom: 0;
         margin-right: 20px;
@@ -233,6 +237,12 @@ section {
         flex: 0 0 550px;
         margin-top: 0;
     }
+
+    .boxes p {
+        text-align: center;
+    }
+
+
 
     .services-alt .services-text {
         order: 2;
